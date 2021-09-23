@@ -12,6 +12,8 @@ print("Welcome to my rock paper scissors game!")
 
 print("Rock, Paper, Scissors, Shoot!")
 user_choice=input("choose 'paper' or 'rock' or 'scissors'")
+if user_choice not in ['rock', 'paper', 'scissors']:
+    print("invalid user choice, try again")
 print("User chose:")
 print (user_choice)
 
