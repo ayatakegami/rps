@@ -10,9 +10,9 @@ Installation
     Install necessary package dependencies
         (This includes pip install python-dotenv on Mac terminal)
 
-Set Up: 
-    Create an Anaconda virtual environment specific to this project
-    Navigate from repository to text editor of choice
+Set Up 
++ Create an Anaconda virtual environment specific to this project
++ Navigate from repository to text editor of choice
 
 Usage
 + Edit env file to customize PLAYER_NAME in text editor
