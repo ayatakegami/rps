@@ -8,6 +8,7 @@ Installation
 
     Download (https://github.com/ayatakegami/rps.git) 
     Install necessary package dependencies
+        (This includes pip install python-dotenv on terminal)
 
 Set Up: 
     Navigate from repository to text editor of choice
