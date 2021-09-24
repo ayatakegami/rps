@@ -11,6 +11,7 @@ Installation
         (This includes pip install python-dotenv on terminal)
 
 Set Up: 
+    Create an Anaconda virtual environment specific to this project
     Navigate from repository to text editor of choice
 
 Usage
