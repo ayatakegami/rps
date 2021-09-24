@@ -9,7 +9,7 @@ print("Hi", x)
 
 import random
 print("Welcome to my rock paper scissors game!")
-
+print("------------------------------")
 print("Rock, Paper, Scissors, Shoot!")
 user_choice=input("choose 'paper' or 'rock' or 'scissors'")
 if user_choice not in ['rock', 'paper', 'scissors']:
@@ -43,5 +43,5 @@ elif computer_choice == "scissors" and user_choice=="paper":
 
 if computer_choice == user_choice:
     print("It's a tie, try again!")
-  
+print("------------------------------")
 print ("Thanks for playing!")
