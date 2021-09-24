@@ -8,15 +8,15 @@ Installation
 
     Download (https://github.com/ayatakegami/rps.git) 
     Install necessary package dependencies
-        (This includes pip install python-dotenv on terminal)
+        (This includes pip install python-dotenv on Mac terminal)
 
 Set Up: 
     Create an Anaconda virtual environment specific to this project
     Navigate from repository to text editor of choice
 
 Usage
-    Edit env file to customize PLAYER_NAME in text editor
-    In Mac terminal, enter pwd to identify present working directory
-    Enter cd to file where you have downloaded the rock paper scissors exercise, then cd to rps. 
-    Run python game.py in Mac terminal
++ Edit env file to customize PLAYER_NAME in text editor
++ In Mac terminal, enter pwd to identify present working directory
++ Enter cd to file where you have downloaded the rock paper scissors exercise, then cd to rps. 
++ Run python game.py in Mac terminal
 
